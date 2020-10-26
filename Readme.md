@@ -1,3 +1,3 @@
 ## Testing Repo
 
-There is nothing here
+This repo is only for testing purposes
